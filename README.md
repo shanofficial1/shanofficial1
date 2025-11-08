@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="BANNER_IMAGE_HERE" alt="banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/4337104d-75fd-434b-9094-ae86ea3c2fb1" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shan</h1>
 <h3 align="center">MERN Full Stack Developer</h3>
+
+
+<img width="1584" height="396" alt="SHAN" src="" />
 
 ---
 
