@@ -15,7 +15,7 @@
 ### 🛠️ Skills & Technologies
 
 #### **Programming**
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat)
+(https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
