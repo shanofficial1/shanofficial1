@@ -46,7 +46,7 @@
 
 ### 🌍 Connect With Me
 <p>
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:shanr1164@gmail.com">
   <img src="https://img.shields.io/badge/Email-ff4f4f?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/shanofficial1">
